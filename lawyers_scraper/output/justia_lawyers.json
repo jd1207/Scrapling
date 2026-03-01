@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Maria Rodriguez, Esq.",
+    "firm_name": "Law Office of Maria Rodriguez",
+    "phone": "(973) 555-0101",
+    "email": "mrodriguez@example.com",
+    "address": "123 Broad St, Newark, NJ 07102",
+    "city": "newark",
+    "state": "NJ",
+    "zip": "07102",
+    "website": "https://rodriguezlaw.example.com",
+    "practice_areas": [
+      "Immigration",
+      "Family"
+    ],
+    "education": [
+      {
+        "school": "Seton Hall Law",
+        "degree": "J.D.",
+        "year": "2013"
+      }
+    ],
+    "bar_admissions": [
+      "New Jersey - 2014"
+    ],
+    "bio": "Dedicated immigration attorney serving the Newark community.",
+    "source": "justia",
+    "source_url": "https://www.justia.com/lawyers/maria-rodriguez-newark",
+    "scraped_at": "2026-03-01T00:00:00+00:00"
+  },
+  {
+    "name": "David Park",
+    "firm_name": "Park Law Group",
+    "phone": "(718) 555-0400",
+    "email": "dpark@example.com",
+    "address": "321 Court St, Brooklyn, NY 11201",
+    "city": "brooklyn",
+    "state": "NY",
+    "zip": "11201",
+    "website": "https://parklaw.example.com",
+    "practice_areas": [
+      "Personal Injury",
+      "Workers Compensation"
+    ],
+    "education": [
+      {
+        "school": "Brooklyn Law School",
+        "degree": "J.D.",
+        "year": "2010"
+      }
+    ],
+    "bar_admissions": [
+      "New York - 2011"
+    ],
+    "bio": "Personal injury lawyer fighting for injured workers.",
+    "source": "justia",
+    "source_url": "https://www.justia.com/lawyers/david-park-brooklyn",
+    "scraped_at": "2026-03-01T00:00:00+00:00"
+  }
+]

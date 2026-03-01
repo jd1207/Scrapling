@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Maria Rodriguez",
+    "firm_name": "Law Office of Maria Rodriguez",
+    "phone": "(973) 555-0101",
+    "address": "123 Broad St, Newark, NJ 07102",
+    "city": "newark",
+    "state": "NJ",
+    "zip": "07102",
+    "practice_areas": [
+      "Immigration Law",
+      "Family Law",
+      "Immigration",
+      "Family"
+    ],
+    "years_experience": "12",
+    "licensed_since": "2014",
+    "bar_admissions": [
+      {
+        "state": "New Jersey",
+        "year": "2014"
+      },
+      "New Jersey - 2014"
+    ],
+    "rating": "4.8",
+    "num_reviews": "25",
+    "email": "mrodriguez@example.com",
+    "website": "https://rodriguezlaw.example.com",
+    "education": [
+      {
+        "school": "Seton Hall Law",
+        "degree": "J.D.",
+        "year": "2013"
+      }
+    ],
+    "bio": "Dedicated immigration attorney serving the Newark community.",
+    "sources": [
+      "avvo",
+      "justia"
+    ],
+    "source_urls": [
+      "https://www.avvo.com/attorneys/07102-nj-maria-rodriguez.html",
+      "https://www.justia.com/lawyers/maria-rodriguez-newark"
+    ],
+    "firm_size_parsed": 1
+  },
+  {
+    "name": "James Chen",
+    "firm_name": "Chen & Associates",
+    "phone": "(212) 555-0200",
+    "email": "jchen@example.com",
+    "address": "456 Broadway, New York, NY 10013",
+    "city": "new york",
+    "state": "NY",
+    "zip": "10013",
+    "website": "https://chenlaw.example.com",
+    "practice_areas": [
+      "Criminal Defense",
+      "DUI/DWI",
+      "Traffic Tickets",
+      "Criminal Law",
+      "DUI & DWI"
+    ],
+    "years_experience": "20",
+    "licensed_since": "2006",
+    "education": [
+      {
+        "school": "NYU School of Law",
+        "degree": "J.D.",
+        "year": "2005"
+      },
+      "NYU School of Law"
+    ],
+    "bar_admissions": [
+      {
+        "state": "New York",
+        "year": "2006"
+      },
+      {
+        "state": "New Jersey",
+        "year": "2007"
+      }
+    ],
+    "rating": "4.9",
+    "num_reviews": "48",
+    "reviews_summary": "Excellent attorney",
+    "firm_size": "3 attorneys",
+    "sources": [
+      "avvo",
+      "lawyers_com"
+    ],
+    "source_urls": [
+      "https://www.avvo.com/attorneys/10013-ny-james-chen.html",
+      "https://www.lawyers.com/new-york/james-chen"
+    ],
+    "firm_size_parsed": 3
+  },
+  {
+    "name": "Fatima Okonkwo",
+    "firm_name": "Okonkwo Legal Services",
+    "phone": "(973) 555-0300",
+    "address": "789 Market St, Newark, NJ 07102",
+    "city": "newark",
+    "state": "NJ",
+    "zip": "07102",
+    "practice_areas": [
+      "Real Estate",
+      "Business Law",
+      "Real Estate Law",
+      "Business Formation"
+    ],
+    "years_experience": "8",
+    "licensed_since": "2018",
+    "bar_admissions": [
+      {
+        "state": "New Jersey",
+        "year": "2018"
+      }
+    ],
+    "rating": "4.5",
+    "num_reviews": "10",
+    "firm_size": "2 attorneys",
+    "email": "fokonkwo@example.com",
+    "website": "https://okonkwolaw.example.com",
+    "education": [
+      "Howard University School of Law"
+    ],
+    "sources": [
+      "avvo",
+      "lawyers_com"
+    ],
+    "source_urls": [
+      "https://www.avvo.com/attorneys/07102-nj-fatima-okonkwo.html",
+      "https://www.lawyers.com/newark/fatima-okonkwo"
+    ],
+    "firm_size_parsed": 2
+  },
+  {
+    "name": "David Park",
+    "firm_name": "Park Law Group",
+    "phone": "(718) 555-0400",
+    "email": "dpark@example.com",
+    "address": "321 Court St, Brooklyn, NY 11201",
+    "city": "brooklyn",
+    "state": "NY",
+    "zip": "11201",
+    "website": "https://parklaw.example.com",
+    "practice_areas": [
+      "Personal Injury",
+      "Workers Compensation"
+    ],
+    "education": [
+      {
+        "school": "Brooklyn Law School",
+        "degree": "J.D.",
+        "year": "2010"
+      }
+    ],
+    "bar_admissions": [
+      "New York - 2011"
+    ],
+    "bio": "Personal injury lawyer fighting for injured workers.",
+    "source": "justia",
+    "source_url": "https://www.justia.com/lawyers/david-park-brooklyn",
+    "scraped_at": "2026-03-01T00:00:00+00:00",
+    "firm_size_parsed": 1
+  },
+  {
+    "name": "Sarah Williams",
+    "firm_name": "Williams Family Law",
+    "firm_size": "Solo",
+    "phone": "(201) 555-0500",
+    "email": "swilliams@example.com",
+    "address": "100 Main St, Jersey City, NJ 07302",
+    "city": "jersey city",
+    "state": "NJ",
+    "zip": "07302",
+    "website": "https://williamsfamilylaw.example.com",
+    "practice_areas": [
+      "Divorce",
+      "Child Custody",
+      "Family Law"
+    ],
+    "education": [
+      "Rutgers Law School"
+    ],
+    "rating": "BV Distinguished",
+    "num_reviews": "8",
+    "source": "lawyers_com",
+    "source_url": "https://www.lawyers.com/jersey-city/sarah-williams",
+    "scraped_at": "2026-03-01T00:00:00+00:00",
+    "firm_size_parsed": 1
+  }
+]

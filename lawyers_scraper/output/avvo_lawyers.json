@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Maria Rodriguez",
+    "firm_name": "Law Office of Maria Rodriguez",
+    "phone": "(973) 555-0101",
+    "email": "",
+    "address": "123 Broad St, Newark, NJ 07102",
+    "city": "newark",
+    "state": "NJ",
+    "zip": "07102",
+    "website": "",
+    "practice_areas": [
+      "Immigration Law",
+      "Family Law"
+    ],
+    "years_experience": "12",
+    "licensed_since": "2014",
+    "education": [],
+    "bar_admissions": [
+      {
+        "state": "New Jersey",
+        "year": "2014"
+      }
+    ],
+    "rating": "4.8",
+    "num_reviews": "25",
+    "reviews_summary": "",
+    "source": "avvo",
+    "source_url": "https://www.avvo.com/attorneys/07102-nj-maria-rodriguez.html",
+    "scraped_at": "2026-03-01T00:00:00+00:00"
+  },
+  {
+    "name": "James Chen",
+    "firm_name": "Chen & Associates",
+    "phone": "(212) 555-0200",
+    "email": "jchen@example.com",
+    "address": "456 Broadway, New York, NY 10013",
+    "city": "new york",
+    "state": "NY",
+    "zip": "10013",
+    "website": "https://chenlaw.example.com",
+    "practice_areas": [
+      "Criminal Defense",
+      "DUI/DWI",
+      "Traffic Tickets"
+    ],
+    "years_experience": "20",
+    "licensed_since": "2006",
+    "education": [
+      {
+        "school": "NYU School of Law",
+        "degree": "J.D.",
+        "year": "2005"
+      }
+    ],
+    "bar_admissions": [
+      {
+        "state": "New York",
+        "year": "2006"
+      },
+      {
+        "state": "New Jersey",
+        "year": "2007"
+      }
+    ],
+    "rating": "4.9",
+    "num_reviews": "48",
+    "reviews_summary": "Excellent attorney",
+    "source": "avvo",
+    "source_url": "https://www.avvo.com/attorneys/10013-ny-james-chen.html",
+    "scraped_at": "2026-03-01T00:00:00+00:00"
+  },
+  {
+    "name": "Fatima Okonkwo",
+    "firm_name": "Okonkwo Legal Services",
+    "phone": "(973) 555-0300",
+    "email": "",
+    "address": "789 Market St, Newark, NJ 07102",
+    "city": "newark",
+    "state": "NJ",
+    "zip": "07102",
+    "website": "",
+    "practice_areas": [
+      "Real Estate",
+      "Business Law"
+    ],
+    "years_experience": "8",
+    "licensed_since": "2018",
+    "education": [],
+    "bar_admissions": [
+      {
+        "state": "New Jersey",
+        "year": "2018"
+      }
+    ],
+    "rating": "4.5",
+    "num_reviews": "10",
+    "reviews_summary": "",
+    "source": "avvo",
+    "source_url": "https://www.avvo.com/attorneys/07102-nj-fatima-okonkwo.html",
+    "scraped_at": "2026-03-01T00:00:00+00:00"
+  }
+]

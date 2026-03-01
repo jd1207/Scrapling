@@ -1,0 +1,75 @@
+[
+  {
+    "name": "James Chen",
+    "firm_name": "Chen & Associates",
+    "firm_size": "3 attorneys",
+    "phone": "(212) 555-0200",
+    "email": "",
+    "address": "456 Broadway, New York, NY 10013",
+    "city": "new york",
+    "state": "NY",
+    "zip": "10013",
+    "website": "",
+    "practice_areas": [
+      "Criminal Law",
+      "DUI & DWI"
+    ],
+    "education": [
+      "NYU School of Law"
+    ],
+    "rating": "AV Preeminent",
+    "num_reviews": "15",
+    "source": "lawyers_com",
+    "source_url": "https://www.lawyers.com/new-york/james-chen",
+    "scraped_at": "2026-03-01T00:00:00+00:00"
+  },
+  {
+    "name": "Sarah Williams",
+    "firm_name": "Williams Family Law",
+    "firm_size": "Solo",
+    "phone": "(201) 555-0500",
+    "email": "swilliams@example.com",
+    "address": "100 Main St, Jersey City, NJ 07302",
+    "city": "jersey city",
+    "state": "NJ",
+    "zip": "07302",
+    "website": "https://williamsfamilylaw.example.com",
+    "practice_areas": [
+      "Divorce",
+      "Child Custody",
+      "Family Law"
+    ],
+    "education": [
+      "Rutgers Law School"
+    ],
+    "rating": "BV Distinguished",
+    "num_reviews": "8",
+    "source": "lawyers_com",
+    "source_url": "https://www.lawyers.com/jersey-city/sarah-williams",
+    "scraped_at": "2026-03-01T00:00:00+00:00"
+  },
+  {
+    "name": "Fatima Okonkwo",
+    "firm_name": "Okonkwo Legal Services",
+    "firm_size": "2 attorneys",
+    "phone": "(973) 555-0300",
+    "email": "fokonkwo@example.com",
+    "address": "789 Market St, Newark, NJ 07102",
+    "city": "newark",
+    "state": "NJ",
+    "zip": "07102",
+    "website": "https://okonkwolaw.example.com",
+    "practice_areas": [
+      "Real Estate Law",
+      "Business Formation"
+    ],
+    "education": [
+      "Howard University School of Law"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "source": "lawyers_com",
+    "source_url": "https://www.lawyers.com/newark/fatima-okonkwo",
+    "scraped_at": "2026-03-01T00:00:00+00:00"
+  }
+]
