@@ -1,194 +1,1321 @@
 [
   {
-    "name": "Maria Rodriguez",
-    "firm_name": "Law Office of Maria Rodriguez",
-    "phone": "(973) 555-0101",
-    "address": "123 Broad St, Newark, NJ 07102",
-    "city": "newark",
+    "name": "Franz Cobos",
+    "firm_name": "Cobos Law Firm",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "17 Academy Street, Suite 312, Newark, NJ",
+    "city": "Newark",
     "state": "NJ",
-    "zip": "07102",
+    "zip": "",
+    "website": "",
     "practice_areas": [
-      "Immigration Law",
       "Family Law",
-      "Immigration",
-      "Family"
+      "Immigration Law",
+      "Business Law",
+      "Criminal Defense",
+      "DWI"
     ],
-    "years_experience": "12",
-    "licensed_since": "2014",
-    "bar_admissions": [
-      {
-        "state": "New Jersey",
-        "year": "2014"
-      },
-      "New Jersey - 2014"
-    ],
-    "rating": "4.8",
-    "num_reviews": "25",
-    "email": "mrodriguez@example.com",
-    "website": "https://rodriguezlaw.example.com",
+    "years_experience": "21",
     "education": [
-      {
-        "school": "Seton Hall Law",
-        "degree": "J.D.",
-        "year": "2013"
-      }
+      "Seton Hall University School of Law",
+      "Rutgers School of Law-Newark"
     ],
-    "bio": "Dedicated immigration attorney serving the Newark community.",
+    "bar_admissions": [
+      "New Jersey",
+      "New York"
+    ],
+    "rating": "Avvo Client's Choice",
+    "num_reviews": "",
+    "bio": "Owner and managing partner dedicated to Family Law, Immigration Law and Business Law. Member of NJ State Bar Association, Essex County Bar Association, and American Immigration Lawyers' Association.",
     "sources": [
       "avvo",
+      "web_search"
+    ],
+    "source_urls": [
+      "https://www.avvo.com/all-lawyers/nj/newark.html"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Eric M. Mark",
+    "firm_name": "Law Office of Eric M. Mark",
+    "firm_size": 1,
+    "phone": "(973) 453-2009",
+    "email": "",
+    "address": "96 Summer Ave., Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "https://ericmarklaw.com/",
+    "practice_areas": [
+      "Criminal Defense",
+      "DWI",
+      "Immigration"
+    ],
+    "years_experience": "",
+    "education": [
+      "Pepperdine University School of Law"
+    ],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Limits practice to criminal defense, DWI, and immigration. Former Assistant Prosecutor in Somerset County. Free 15-minute consultations available.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://ericmarklaw.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Maduabum Law Firm",
+    "firm_name": "Maduabum Law Firm LLC",
+    "firm_size": 3,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "https://maduabumlaw.com/",
+    "practice_areas": [
+      "Criminal Defense",
+      "Immigration",
+      "Family Law",
+      "Personal Injury"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Attorneys work as a team handling criminal defense, immigration, family law, and personal injury in the Essex County area.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://maduabumlaw.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Angus U. Ejiofor",
+    "firm_name": "Law Office of Angus U Ejiofor, LLC",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "East Orange, NJ",
+    "city": "East Orange",
+    "state": "NJ",
+    "zip": "",
+    "website": "https://www.ejioforlaw.com/",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Immigration",
+      "Criminal Defense",
+      "Traffic Violations",
+      "Personal Injury"
+    ],
+    "years_experience": "20",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Nearly two decades guiding people through family law, immigration, and criminal matters. Serves East Orange, Orange, Bloomfield, and Newark.",
+    "sources": [
+      "justia",
+      "web_search"
+    ],
+    "source_urls": [
+      "https://www.ejioforlaw.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Jimmy Johnson",
+    "firm_name": "Jimmy Johnson, Esq.",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Immigration",
+      "Criminal Defense"
+    ],
+    "years_experience": "",
+    "education": [
+      "Western Michigan University-Thomas M. Cooley Law School"
+    ],
+    "bar_admissions": [],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Skilled US Immigration Attorney, Criminal Defense Attorney, and General Practice Solo & Small Firm Lawyer. Handles individual-family-based and business-based immigration.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Marlene Sanchez",
+    "firm_name": "Sanchez Law Group LLC",
+    "firm_size": 2,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Criminal Defense",
+      "Immigration",
+      "Domestic Violence",
+      "Traffic Violations"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Boutique law firm primarily assisting the immigrant community in navigating the legal system. Extends services to foreign nationals facing deportation on criminal charges.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Michael V. Calabro",
+    "firm_name": "Michael V. Calabro, Attorney at Law",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Criminal Defense",
+      "Domestic Violence",
+      "Firearms",
+      "Traffic Violations",
+      "DUI/DWI",
+      "Sexual Assault",
+      "White-Collar Crime"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "Supreme Court Certified Criminal Trial Attorney",
+    "num_reviews": "",
+    "bio": "Solo practitioner. Supreme Court Certified Criminal Trial Attorney providing counsel on criminal law matters.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Marc P. Feldman",
+    "firm_name": "Marc P. Feldman, Attorney at Law",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Family Law",
+      "Bankruptcy",
+      "Immigration",
+      "Real Estate",
+      "Wills and Estates",
+      "Landlord/Tenant",
+      "DWI",
+      "Juvenile Law",
+      "Expungements"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "General practice attorney covering family, bankruptcy, immigration, real estate, estates, landlord/tenant, DWI, and expungements.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Peter Michael",
+    "firm_name": "Peter Michael Law, LLC",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Personal Injury",
+      "Criminal Defense",
+      "Traffic/Municipal Court",
+      "Real Estate"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Founding Partner focusing on personal injury, criminal defense, traffic court, and real estate transactions. Previously worked on civil litigation, landlord-tenant, commercial litigation, and workers compensation at two mid-size NJ firms.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Garrett P. Simulcik Jr.",
+    "firm_name": "Law Office of Garrett P. Simulcik Jr.",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Jersey City, NJ",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Civil Litigation",
+      "Real Estate",
+      "Divorce",
+      "Family Law",
+      "Landlord/Tenant",
+      "Traffic Tickets",
+      "Business Law"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Jersey City-based general practice law firm handling civil litigation, real estate (residential and commercial), divorce, family law, landlord/tenant, traffic, and general business matters.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "MaryAnn McField",
+    "firm_name": "The Law Office of MaryAnn McField LLC",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Representation and counsel for personal injury cases so accident victims can obtain compensation and access medical treatment.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Clarence Barry-Austin",
+    "firm_name": "Law Offices of Clarence Barry-Austin PC",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Auto Accidents"
+    ],
+    "years_experience": "47",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Practicing personal injury law since 1977. Handles evidence collection, fault establishment, witness interviews, and insurance company negotiations.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Steven Lehr",
+    "firm_name": "LehrLaw",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Tax",
+      "Bankruptcy",
+      "Business Law",
+      "Estate Planning"
+    ],
+    "years_experience": "46",
+    "education": [
+      "NYU School of Law",
+      "American University"
+    ],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Principal and founder of LehrLaw, a boutique general practice law firm. 46 years of experience in tax, bankruptcy, business, and estate planning.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Andrew J. Naideck",
+    "firm_name": "Andrew J. Naideck, Attorney at Law",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Bankruptcy",
+      "Real Estate",
+      "Wills and Estates",
+      "Traffic",
+      "Criminal Defense",
+      "Divorce"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Represents individuals and businesses in bankruptcy, real estate, wills/estates, traffic, criminal defense, and divorce.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Jennifer N. Weil",
+    "firm_name": "Jennifer N. Weil, Esq.",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Hoboken, NJ",
+    "city": "Hoboken",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Bankruptcy",
+      "Tax",
+      "Consumer Law"
+    ],
+    "years_experience": "10",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Helps individuals and businesses with credit card debt, personal loans, student loans, IRS tax debt. Serves Newark area from Hoboken.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Parag P. Patel",
+    "firm_name": "Patel Law Offices",
+    "firm_size": 2,
+    "phone": "",
+    "email": "",
+    "address": "New Jersey",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Tax",
+      "Business Transactions",
+      "International Tax",
+      "Estate Planning"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Expertise in all stages of civil and criminal tax controversies including international tax law, offshore bank accounts, IRS administrative appeals, and complex litigation.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Virginia D. Gorostiaga",
+    "firm_name": "Gorostiaga Law Firm",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Elizabeth, NJ",
+    "city": "Elizabeth",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Immigration"
+    ],
+    "years_experience": "7",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Experienced immigration attorney serving the Elizabeth and East Orange area.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Dmitriy Shakhnevich",
+    "firm_name": "The Law Firm of Dmitriy Shakhnevich",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Criminal Defense",
+      "White Collar Crime"
+    ],
+    "years_experience": "",
+    "education": [
+      "New York Law School"
+    ],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Graduate of New York Law School. Former lead law clerk for a prominent white collar crime attorney before opening his own practice.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Husain A. Gatlin",
+    "firm_name": "Law Office of Husain A. Gatlin",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "59 Market Street, Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Attorney based at 59 Market Street, Newark, NJ.",
+    "sources": [
+      "avvo"
+    ],
+    "source_urls": [
+      "https://www.avvo.com/all-lawyers/nj/newark.html"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Pedroso Legal Services",
+    "firm_name": "Pedroso Legal Services LLC",
+    "firm_size": 2,
+    "phone": "",
+    "email": "",
+    "address": "8 Wilson Ave, Fl. 3, Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "Top Lawyers in New Jersey (The Legal Network)",
+    "num_reviews": "",
+    "bio": "Has received many awards and recognitions for exceptional service. Recognized by The Legal Network as Top Lawyers in New Jersey.",
+    "sources": [
+      "avvo"
+    ],
+    "source_urls": [
+      "https://www.avvo.com/all-lawyers/nj/newark.html"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Joseph D. Rotella",
+    "firm_name": "Joseph D. Rotella, Attorney at Law",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "24 Commerce St., Suite 1726, Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Criminal Defense"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "NJ Supreme Court Certified Criminal Trial Attorney; NBTA Board Certified",
+    "num_reviews": "",
+    "bio": "NJ Supreme Court Certified Criminal Trial Attorney considered an expert in criminal defense. Also board-certified by the National Board of Trial Advocacy.",
+    "sources": [
+      "avvo"
+    ],
+    "source_urls": [
+      "https://www.avvo.com/all-lawyers/nj/newark.html"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Galit Moskowitz",
+    "firm_name": "Galit Moskowitz, Family Law Attorney",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "New Jersey",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Family Law",
+      "Child Custody",
+      "Child Support"
+    ],
+    "years_experience": "10",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "Avvo Recognition; (201) Magazine Recognition",
+    "num_reviews": "",
+    "bio": "Practices exclusively in family law for over 10 years, handling custody, child support, and other family matters.",
+    "sources": [
+      "avvo",
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Patricia M. Machado",
+    "firm_name": "Law Office of Patricia M. Machado, P.C.",
+    "firm_size": 2,
+    "phone": "(646) 736-4592",
+    "email": "",
+    "address": "Manhattan, NY",
+    "city": "Manhattan",
+    "state": "NY",
+    "zip": "",
+    "website": "https://www.machadolaw1.com/",
+    "practice_areas": [
+      "Immigration",
+      "Family Law",
+      "Criminal Defense",
+      "Personal Injury"
+    ],
+    "years_experience": "28",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Practicing law since 1996. Firm includes founding attorney Patricia Machado, Esq. and Managing Attorney Alexander Pramer, Esq.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://www.machadolaw1.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Manuel Portela",
+    "firm_name": "Portela Law Firm, P.C.",
+    "firm_size": 3,
+    "phone": "",
+    "email": "",
+    "address": "Bronx, NY",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "",
+    "website": "https://www.portelalaw.com/",
+    "practice_areas": [
+      "Criminal Defense",
+      "Immigration",
+      "Family Law",
+      "Personal Injury"
+    ],
+    "years_experience": "",
+    "education": [
+      "Fordham University",
+      "American University Washington College of Law"
+    ],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Founding partner. Former Assistant District Attorney at Kings County DA's Office. Attorneys come from diverse backgrounds; services in English and Spanish.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://www.portelalaw.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Tsiring Law Firm",
+    "firm_name": "Tsiring Law Firm",
+    "firm_size": 3,
+    "phone": "",
+    "email": "",
+    "address": "Brooklyn, NY",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "",
+    "website": "https://www.tsiringlaw.com/",
+    "practice_areas": [
+      "Immigration",
+      "Family Law",
+      "Child Custody",
+      "Deportation Defense",
+      "Visa Applications"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Expert in immigration law with personalized services. From visa applications to deportation defense. Also handles family law and custody matters.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://www.tsiringlaw.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Alena Shautsova",
+    "firm_name": "Law Office of Alena Shautsova",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Brooklyn, NY",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "",
+    "website": "https://shautsova.com/",
+    "practice_areas": [
+      "Immigration",
+      "VAWA",
+      "U Visa",
+      "T Visa",
+      "Deportation Defense",
+      "Criminal Immigration"
+    ],
+    "years_experience": "10",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "Top-rated",
+    "num_reviews": "",
+    "bio": "Top-rated New York immigration lawyer in Brooklyn and Syosset. Handles family and employment-based immigration, VAWA, U/T visas, deportation defense, and criminal immigration issues.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://shautsova.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Kaliopi Vasiliou",
+    "firm_name": "Vasiliou Law",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Queens, NY",
+    "city": "Queens",
+    "state": "NY",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Criminal Defense",
+      "Family Law",
+      "Estate Planning"
+    ],
+    "years_experience": "20",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Criminal defense, family law, and estate planning attorney with over 20 years combined experience. Background in forensic psychology and courtroom litigation.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Jeffrey L. Davis",
+    "firm_name": "Law Offices of Jeffrey L. Davis",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "College Point, NY",
+    "city": "Queens",
+    "state": "NY",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Criminal Defense"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Boutique New York criminal defense law firm dedicated to defending and protecting the rights of New York residents charged with a crime.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "David S. Rich",
+    "firm_name": "Law Offices of David S. Rich, LLC",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Manhattan, NY",
+    "city": "Manhattan",
+    "state": "NY",
+    "zip": "",
+    "website": "https://www.davidrichlaw.com/",
+    "practice_areas": [
+      "Employment Law",
+      "Business Torts",
+      "Divorce",
+      "Workers Compensation",
+      "Wage & Hour",
+      "Discrimination"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New York",
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Handles breach of contract, business torts, bankruptcy, divorce, employment matters, wage-and-hour lawsuits, discrimination, harassment, labor arbitrations, and workers comp.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://www.davidrichlaw.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Cherny & Podolsky",
+    "firm_name": "Cherny & Podolsky (CP Law Firm)",
+    "firm_size": 3,
+    "phone": "",
+    "email": "",
+    "address": "Brooklyn, NY",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "",
+    "website": "https://cplawfirm.net",
+    "practice_areas": [
+      "Personal Injury",
+      "Real Estate",
+      "Business Litigation"
+    ],
+    "years_experience": "16",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Established in 2008. Over $45,000,000 in settlements in personal injury, residential & commercial real estate, and civil/commercial business litigation.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://cplawfirm.net"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Georgaklis & Mallas",
+    "firm_name": "Georgaklis & Mallas",
+    "firm_size": 3,
+    "phone": "",
+    "email": "",
+    "address": "Brooklyn & Manhattan, NY",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "",
+    "website": "https://gmlawny.com/",
+    "practice_areas": [
+      "Personal Injury",
+      "Real Estate"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "Super Lawyers; National Trial Lawyers Top 100; AV Preeminent (Martindale Hubbell)",
+    "num_reviews": "",
+    "bio": "Boutique law firm concentrating in personal injury and real estate. Named Super Lawyers, National Trial Lawyers Top 100, and AV Preeminent.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://gmlawny.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Eaton & Torrenzano",
+    "firm_name": "Eaton & Torrenzano",
+    "firm_size": 3,
+    "phone": "",
+    "email": "",
+    "address": "Brooklyn, NY",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "",
+    "website": "https://www.eatonandtorrenzano.com/",
+    "practice_areas": [
+      "Real Estate",
+      "Personal Injury",
+      "Commercial Real Estate"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Serves clients throughout Kings County and Richmond County. Handles commercial real estate from raw land purchases to developed property sales.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://www.eatonandtorrenzano.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Daniel Friedman",
+    "firm_name": "Daniel Friedman, Attorney at Law",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Brooklyn & Queens, NY",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Business Law",
+      "Contract Law",
+      "Real Estate",
+      "Estate Law",
+      "Insurance"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Successfully litigates business, contract, real estate, estate, and insurance matters in all courts. Offices in Brooklyn and Queens.",
+    "sources": [
       "justia"
     ],
     "source_urls": [
-      "https://www.avvo.com/attorneys/07102-nj-maria-rodriguez.html",
-      "https://www.justia.com/lawyers/maria-rodriguez-newark"
+      "https://www.justia.com/lawyers/business-law/new-york/brooklyn"
     ],
-    "firm_size_parsed": 1
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
   },
   {
-    "name": "James Chen",
-    "firm_name": "Chen & Associates",
-    "phone": "(212) 555-0200",
-    "email": "jchen@example.com",
-    "address": "456 Broadway, New York, NY 10013",
-    "city": "new york",
+    "name": "Moshes Law",
+    "firm_name": "Moshes Law, P.C.",
+    "firm_size": 5,
+    "phone": "",
+    "email": "",
+    "address": "517 Brighton Beach Avenue, 2nd Floor, Brooklyn, NY 11235",
+    "city": "Brooklyn",
     "state": "NY",
-    "zip": "10013",
-    "website": "https://chenlaw.example.com",
-    "practice_areas": [
-      "Criminal Defense",
-      "DUI/DWI",
-      "Traffic Tickets",
-      "Criminal Law",
-      "DUI & DWI"
-    ],
-    "years_experience": "20",
-    "licensed_since": "2006",
-    "education": [
-      {
-        "school": "NYU School of Law",
-        "degree": "J.D.",
-        "year": "2005"
-      },
-      "NYU School of Law"
-    ],
-    "bar_admissions": [
-      {
-        "state": "New York",
-        "year": "2006"
-      },
-      {
-        "state": "New Jersey",
-        "year": "2007"
-      }
-    ],
-    "rating": "4.9",
-    "num_reviews": "48",
-    "reviews_summary": "Excellent attorney",
-    "firm_size": "3 attorneys",
-    "sources": [
-      "avvo",
-      "lawyers_com"
-    ],
-    "source_urls": [
-      "https://www.avvo.com/attorneys/10013-ny-james-chen.html",
-      "https://www.lawyers.com/new-york/james-chen"
-    ],
-    "firm_size_parsed": 3
-  },
-  {
-    "name": "Fatima Okonkwo",
-    "firm_name": "Okonkwo Legal Services",
-    "phone": "(973) 555-0300",
-    "address": "789 Market St, Newark, NJ 07102",
-    "city": "newark",
-    "state": "NJ",
-    "zip": "07102",
-    "practice_areas": [
-      "Real Estate",
-      "Business Law",
-      "Real Estate Law",
-      "Business Formation"
-    ],
-    "years_experience": "8",
-    "licensed_since": "2018",
-    "bar_admissions": [
-      {
-        "state": "New Jersey",
-        "year": "2018"
-      }
-    ],
-    "rating": "4.5",
-    "num_reviews": "10",
-    "firm_size": "2 attorneys",
-    "email": "fokonkwo@example.com",
-    "website": "https://okonkwolaw.example.com",
-    "education": [
-      "Howard University School of Law"
-    ],
-    "sources": [
-      "avvo",
-      "lawyers_com"
-    ],
-    "source_urls": [
-      "https://www.avvo.com/attorneys/07102-nj-fatima-okonkwo.html",
-      "https://www.lawyers.com/newark/fatima-okonkwo"
-    ],
-    "firm_size_parsed": 2
-  },
-  {
-    "name": "David Park",
-    "firm_name": "Park Law Group",
-    "phone": "(718) 555-0400",
-    "email": "dpark@example.com",
-    "address": "321 Court St, Brooklyn, NY 11201",
-    "city": "brooklyn",
-    "state": "NY",
-    "zip": "11201",
-    "website": "https://parklaw.example.com",
+    "zip": "11235",
+    "website": "https://mosheslaw.com/",
     "practice_areas": [
       "Personal Injury",
-      "Workers Compensation"
+      "Real Estate",
+      "Employment Discrimination",
+      "Foreclosure Defense"
     ],
-    "education": [
-      {
-        "school": "Brooklyn Law School",
-        "degree": "J.D.",
-        "year": "2010"
-      }
-    ],
+    "years_experience": "",
+    "education": [],
     "bar_admissions": [
-      "New York - 2011"
+      "New York"
     ],
-    "bio": "Personal injury lawyer fighting for injured workers.",
-    "source": "justia",
-    "source_url": "https://www.justia.com/lawyers/david-park-brooklyn",
-    "scraped_at": "2026-03-01T00:00:00+00:00",
-    "firm_size_parsed": 1
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Full-service law firm offering personal injury, real estate, employment discrimination, foreclosure defense, and short sale services. Free consultations.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://mosheslaw.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
   },
   {
-    "name": "Sarah Williams",
-    "firm_name": "Williams Family Law",
-    "firm_size": "Solo",
-    "phone": "(201) 555-0500",
-    "email": "swilliams@example.com",
-    "address": "100 Main St, Jersey City, NJ 07302",
-    "city": "jersey city",
-    "state": "NJ",
-    "zip": "07302",
-    "website": "https://williamsfamilylaw.example.com",
+    "name": "John Kiritsis",
+    "firm_name": "Law Offices of Kiritsis & Associates PLLC",
+    "firm_size": 2,
+    "phone": "",
+    "email": "",
+    "address": "Brooklyn, NY",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "",
+    "website": "",
     "practice_areas": [
-      "Divorce",
-      "Child Custody",
-      "Family Law"
+      "Business Law",
+      "Real Estate",
+      "Tax Law",
+      "Criminal Defense",
+      "Immigration"
     ],
-    "education": [
-      "Rutgers Law School"
+    "years_experience": "11",
+    "education": [],
+    "bar_admissions": [
+      "New York"
     ],
-    "rating": "BV Distinguished",
-    "num_reviews": "8",
-    "source": "lawyers_com",
-    "source_url": "https://www.lawyers.com/jersey-city/sarah-williams",
-    "scraped_at": "2026-03-01T00:00:00+00:00",
-    "firm_size_parsed": 1
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Licensed Attorney and CPA with 11 years of experience. NYC-based firm providing business law, real estate, tax, criminal defense, and immigration services.",
+    "sources": [
+      "justia"
+    ],
+    "source_urls": [
+      "https://www.justia.com/lawyers/business-law/new-york/brooklyn"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Jason A. Steinberger",
+    "firm_name": "Law Offices of Jason A. Steinberger, LLC",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Bronx, NY",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "",
+    "website": "https://arrestedinny.com/",
+    "practice_areas": [
+      "Criminal Defense",
+      "DWI/DUI",
+      "Civil Rights",
+      "False Arrest",
+      "Police Brutality"
+    ],
+    "years_experience": "10",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Former NYC Criminal Prosecutor, former ADA, and former Adjunct Law Professor. Over 3,000 cases handled. Also takes civil rights cases including false arrest, police brutality, and excessive force.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://arrestedinny.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Lance Fletcher",
+    "firm_name": "Lance Fletcher, DWI Attorney",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "Manhattan, NY",
+    "city": "Manhattan",
+    "state": "NY",
+    "zip": "",
+    "website": "https://www.dwi-attorney-nyc.com/",
+    "practice_areas": [
+      "DWI/DUI",
+      "Criminal Defense"
+    ],
+    "years_experience": "15",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Former ADA at the Manhattan DA's Office. 15+ years exclusively dedicated to DWI and criminal law. Handles cases in Manhattan, Brooklyn, Queens, Bronx, Staten Island, Nassau, Suffolk, and Westchester.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://www.dwi-attorney-nyc.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Jonathan Kaye",
+    "firm_name": "Jonathan Kaye, DWI Attorney",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "New York, NY",
+    "city": "Manhattan",
+    "state": "NY",
+    "zip": "",
+    "website": "https://nydwi-lawyer.com/",
+    "practice_areas": [
+      "DWI/DUI",
+      "Criminal Defense"
+    ],
+    "years_experience": "30",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Former NY Assistant District Attorney. 30+ years practicing DWI/DUI law in the New York area. Knows prosecution and defense sides.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://nydwi-lawyer.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Anders Wenstrand-Nausthaug",
+    "firm_name": "Wenstrand Law LLC",
+    "firm_size": 1,
+    "phone": "",
+    "email": "",
+    "address": "New York, NY",
+    "city": "Manhattan",
+    "state": "NY",
+    "zip": "",
+    "website": "",
+    "practice_areas": [
+      "Civil Litigation",
+      "Contract Disputes",
+      "Defamation",
+      "Real Property",
+      "Landlord/Tenant"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey",
+      "New York",
+      "Arizona"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Civil litigator licensed in NJ, NY, and Arizona. Practice includes contract disputes, defamation, real property issues, and landlord-tenant matters.",
+    "sources": [
+      "justia"
+    ],
+    "source_urls": [
+      "https://www.justia.com/lawyers/dui-dwi/new-york/bronx"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Fisher Stone",
+    "firm_name": "Fisher Stone, P.C.",
+    "firm_size": 4,
+    "phone": "",
+    "email": "",
+    "address": "New York, NY",
+    "city": "Manhattan",
+    "state": "NY",
+    "zip": "",
+    "website": "https://fisherstonelaw.com/",
+    "practice_areas": [
+      "Business Law",
+      "Real Estate",
+      "Personal Injury"
+    ],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New York"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Team of attorneys handling business, real estate, and personal injury. Affordable services for small business owners and personal injury victims.",
+    "sources": [
+      "web_search"
+    ],
+    "source_urls": [
+      "https://fisherstonelaw.com/"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
+  },
+  {
+    "name": "Belotta Law Firm",
+    "firm_name": "Belotta Law Firm, LLC",
+    "firm_size": 2,
+    "phone": "",
+    "email": "",
+    "address": "Newark, NJ",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "",
+    "website": "",
+    "practice_areas": [],
+    "years_experience": "",
+    "education": [],
+    "bar_admissions": [
+      "New Jersey"
+    ],
+    "rating": "",
+    "num_reviews": "",
+    "bio": "Established with the goal that clients receive individualized attention, responsive communication, and aggressive representation with a commitment to excellence.",
+    "sources": [
+      "avvo"
+    ],
+    "source_urls": [
+      "https://www.avvo.com/all-lawyers/nj/newark.html"
+    ],
+    "scraped_at": "2026-03-01T18:43:52.377138+00:00"
   }
 ]
